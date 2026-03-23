@@ -54,4 +54,4 @@ To understand and analyze major network security threats and provide effective m
 ## 🚀 How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/sontakkegaurav/network-security-threats.git
+   git clone https://github.com/sontakkegaurav95/network-security-threats.git
